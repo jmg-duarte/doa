@@ -1,0 +1,15 @@
+[package]
+name = "doa"
+version = "0.0.1"
+edition = "2021"
+authors = ["José Duarte <duarte.gmj@gmail.com>"]
+description = "Deterministic Object Automata implementation"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+categories = ["automata"]
+homepage = "https://github.com/jmg-duarte/doa"
+repository = "https://github.com/jmg-duarte/doa"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
